@@ -1,0 +1,32 @@
+h1{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color:coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td {
+    margin:10%;
+    color: yellow;
+    width: 80%;
+    border-style: groove;
+    border-color: violet;
+}
+form {
+    color:darkorange;
+}
+p{
+    color: chartreuse;
+}
+ul.List2{
+    color: chartreuse;
+}
+a.text2{
+    color: violet;
+
+}
